@@ -1,0 +1,102 @@
+{
+    "item": {
+        "name": "跳一跳",
+        "id": "com.cahkcs.tiao",
+        "restype": "quickapp",
+        "description": "免费小游戏，超级好玩上瘾的游戏",
+        "icon": "icon.png",
+        "cover": "cover.png",
+        "preview": [
+            "preview-1.png",
+            "preview-2.png"
+        ],
+        "author": [
+            {
+                "name": "cahkcs"
+            }
+        ]
+    },
+    "links": [],
+    "downloads": {
+        "xmrw5": {
+            "file_name": "xmrw5.rpk",
+            "version": "1.0.0",
+            "versionCode": 1
+        },
+        "xmrw5xring": {
+            "file_name": "xmrw5xring.rpk",
+            "version": "1.0.0",
+            "versionCode": 1
+        },
+        "xmrw6": {
+            "file_name": "xmrw6.rpk",
+            "version": "1.0.0",
+            "versionCode": 1
+        },
+        "vivowgt2": {
+            "file_name": "vivowgt2.rpk",
+            "version": "1.0.0",
+            "versionCode": 1
+        },
+        "xmb10": {
+            "file_name": "xmb10.rpk",
+            "version": "1.0.0",
+            "versionCode": 1
+        },
+        "xmb10nfc": {
+            "file_name": "xmb10nfc.rpk",
+            "version": "1.0.0",
+            "versionCode": 1
+        },
+        "xmb10p": {
+            "file_name": "xmb10p.rpk",
+            "version": "1.0.0",
+            "versionCode": 1
+        },
+        "xmb11": {
+            "file_name": "xmb11.rpk",
+            "version": "1.0.0",
+            "versionCode": 1
+        },
+        "xmb11nfc": {
+            "file_name": "xmb11nfc.rpk",
+            "version": "1.0.0",
+            "versionCode": 1
+        },
+        "xmb9": {
+            "file_name": "xmb9.rpk",
+            "version": "1.0.0",
+            "versionCode": 1
+        },
+        "xmb9p": {
+            "file_name": "xmb9p.rpk",
+            "version": "1.0.0",
+            "versionCode": 1
+        },
+        "xmws3": {
+            "file_name": "xmws3.rpk",
+            "version": "1.0.0",
+            "versionCode": 1
+        },
+        "xmws4xring": {
+            "file_name": "xmws4xring.rpk",
+            "version": "1.0.0",
+            "versionCode": 1
+        },
+        "xmws441": {
+            "file_name": "xmws441.rpk",
+            "version": "1.0.0",
+            "versionCode": 1
+        },
+        "xmws4": {
+            "file_name": "xmws4.rpk",
+            "version": "1.0.0",
+            "versionCode": 1
+        },
+        "xmws541": {
+            "file_name": "xmws541.rpk",
+            "version": "1.0.0",
+            "versionCode": 1
+        }
+    }
+}
